@@ -1,5 +1,10 @@
 hi
 welcome     
 
+<<<<<<< HEAD
 hello 
 monday
+=======
+
+Hello task1
+>>>>>>> a58dbb3 (task1)
